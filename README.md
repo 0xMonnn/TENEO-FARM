@@ -3,7 +3,7 @@
 - Clone Repository
 
 ```bash
-git https://github.com/0xMonnn/TENEO-FARM.git
+git clone https://github.com/0xMonnn/TENEO-FARM.git
 cd teneo-farm
 ```
 
