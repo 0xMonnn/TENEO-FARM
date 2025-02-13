@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/0xMonnn/TENEO-FARM.git
-cd teneo-farm
+cd TENEO-FARM
 ```
 
 - Install Dependency
